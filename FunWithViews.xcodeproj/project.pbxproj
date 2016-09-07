@@ -12,6 +12,7 @@
 		5BF781B21CFF537A005ECF6E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BF781B01CFF537A005ECF6E /* Main.storyboard */; };
 		5BF781B41CFF537A005ECF6E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BF781B31CFF537A005ECF6E /* Assets.xcassets */; };
 		5BF781B71CFF537A005ECF6E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BF781B51CFF537A005ECF6E /* LaunchScreen.storyboard */; };
+		A2D7A68F1D80A3E800D63881 /* Testt.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D7A68E1D80A3E800D63881 /* Testt.swift */; };
 		ECE9E6CE3E35852BB97A4859 /* Pods_FunWithViews.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 256EB54ED06F8C9AC44EC8E0 /* Pods_FunWithViews.framework */; };
 /* End PBXBuildFile section */
 
@@ -48,6 +49,7 @@
 		5BF781C81CFF537B005ECF6E /* FunWithViewsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FunWithViewsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		61700675651E89FD24364DED /* Pods-FunWithViews.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FunWithViews.release.xcconfig"; path = "Pods/Target Support Files/Pods-FunWithViews/Pods-FunWithViews.release.xcconfig"; sourceTree = "<group>"; };
 		974371AF07AEB25388451725 /* Pods-FunWithViewsUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FunWithViewsUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FunWithViewsUITests/Pods-FunWithViewsUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		A2D7A68E1D80A3E800D63881 /* Testt.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Testt.swift; sourceTree = "<group>"; };
 		AADD7E3CD3185D50DB7B0C5F /* Pods-FunWithViewsUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FunWithViewsUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-FunWithViewsUITests/Pods-FunWithViewsUITests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -110,6 +112,7 @@
 			children = (
 				5BF781AC1CFF537A005ECF6E /* AppDelegate.swift */,
 				5BF781AE1CFF537A005ECF6E /* ViewController.swift */,
+				A2D7A68E1D80A3E800D63881 /* Testt.swift */,
 				5BF781B01CFF537A005ECF6E /* Main.storyboard */,
 				5BF781B31CFF537A005ECF6E /* Assets.xcassets */,
 				5BF781B51CFF537A005ECF6E /* LaunchScreen.storyboard */,
@@ -394,6 +397,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5BF781AF1CFF537A005ECF6E /* ViewController.swift in Sources */,
+				A2D7A68F1D80A3E800D63881 /* Testt.swift in Sources */,
 				5BF781AD1CFF537A005ECF6E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
