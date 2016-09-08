@@ -75,9 +75,7 @@ class ViewController: UIViewController {
                 let score = randomDiceRoll()
                 updateScore(score, count : count)
                 rerangDie(score)
-                
             }
-            
         }
         
         }
