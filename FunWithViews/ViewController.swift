@@ -70,6 +70,7 @@ class ViewController: UIViewController {
             clearTheLabels()
             clearTheBoxes()
             count = 0
+            count += 1
             if count <= 6 {
                 let score = randomDiceRoll()
                 updateScore(score, count : count)
